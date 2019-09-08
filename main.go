@@ -83,3 +83,7 @@ func Path(from, to Pather) (path []Pather, distance float64, found bool) {
 		}
 	}
 }
+
+func main (){
+
+}
