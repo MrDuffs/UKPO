@@ -34,6 +34,8 @@ func (nm nodeMap) get(p Pather) *node {
 	return n
 }
 
+
+
 // Путь между двумя узлами
 func Path(from, to Pather) (path []Pather, distance float64, found bool) {
 	nm := nodeMap{}
