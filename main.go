@@ -1,4 +1,4 @@
-package astar
+package main
 
 import "container/heap"
 
